@@ -52,8 +52,7 @@ tech-ip-sem2/
 ---
 
 ## 2. Схема взаимодействия
-
-```
+```mermaid
 sequenceDiagram
     participant C as Client
     participant T as Tasks Service
